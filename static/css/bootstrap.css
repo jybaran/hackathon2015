@@ -1,4 +1,5 @@
 @import url("//fonts.googleapis.com/css?family=Lato:400,700,400italic");
+@import url("//fonts.googleapis.com/css?family=Cuprum:400,400italic");
 /*!
  * bootswatch v3.3.2
  * Homepage: http://bootswatch.com
@@ -1265,6 +1266,11 @@ h3,
 h4,
 .h4 {
     font-size: 19px;
+}
+h4-title,
+.h4-title {
+    font-family: "Cuprum", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 26px;
 }
 h5,
 .h5 {
